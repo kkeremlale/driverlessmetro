@@ -1,6 +1,6 @@
 # driverlessmetro
 Akbank Python ve Yapay Zekaya Giriş
-# 🚇 **Driverless Metro Simulation**  
+# **Driverless Metro Simulation**  
 
 Bu proje, **otonom bir metro sisteminde en hızlı ve en az aktarmalı rotaları bulmak** için tasarlanmıştır.  
 Kullanıcılar, **BFS (Breadth-First Search)** ve **A* (A-Star)** algoritmalarını kullanarak iki istasyon arasındaki **en iyi rotayı** belirleyebilirler.  
@@ -26,7 +26,7 @@ Python'un **öncelik kuyruğu** (priority queue) yapısını sağlar.
 ### **3. typing**  
 Kodun okunabilirliğini artırmak için **veri türlerini belirtir**.  
 
-Kullanılan Algoritmalar
+**Kullanılan Algoritmalar**
 1. BFS (Breadth-First Search) - En Az Aktarmalı Rota
 BFS, en kısa adımlı geçişleri hesaplamak için kullanılan bir algoritmadır.
 Bu projede en az aktarmalı metro rotasını bulmak için kullanılmıştır.
